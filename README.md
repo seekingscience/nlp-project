@@ -8,4 +8,4 @@ Free Movies, TV Shows, and Anime at your fingertips.
 
 Using the OMDb API
 
-![Icon]([./public/movieNowBanner.jpg](https://img.freepik.com/free-vector/online-cinema-banner-with-open-clapper-board-film-strip_1419-2242.jpg))
+![Icon](https://img.freepik.com/free-vector/online-cinema-banner-with-open-clapper-board-film-strip_1419-2242.jpg)
